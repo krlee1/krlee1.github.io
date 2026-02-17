@@ -27,9 +27,17 @@ Email: [kr.lee@snu.ac.kr](mailto:kr.lee@snu.ac.kr) \
 - **Efficient Personalization of Quantized Diffusion Model without Backpropagation**
 
   Hoigi Seo\*, Wongi Jeong\*, **Kyungryeol Lee**, Se Young Chun (\*co-first) \
-  Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.  
+  Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.
+
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Seo_Efficient_Personalization_of_Quantized_Diffusion_Model_without_Backpropagation_CVPR_2025_paper.pdf)] 
+  [[supp](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Seo_Efficient_Personalization_of_CVPR_2025_supplemental.pdf)]
+  [[arXiv](https://arxiv.org/abs/2503.14868)]
+  [[project](https://ignoww.github.io/ZOODiP_project/)]
+  [[code](https://github.com/ignoww/ZOODiP)]
 
 - **Robust Watermarks for Audio Diffusion Models by Quadrature Amplitude Modulation**
 
   **Kyungryeol Lee**\*, Seongmin Hong\*, Se Young Chun (\*co-first) \
   Pattern Recognition Letters, 2025.
+
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865525003083)]
