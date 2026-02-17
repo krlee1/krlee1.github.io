@@ -14,10 +14,13 @@ Email: [kr.lee@snu.ac.kr](mailto:kr.lee@snu.ac.kr) \
 [[Google Scholar]](https://scholar.google.co.kr/citations?user=Xei6FKcAAAAJ&hl=ko) 
 [[Github]](https://github.com/krlee1) 
 [[LinkedIn]](https://www.linkedin.com/in/kyungryeol-lee-60b999335/)
+
 <br>
-<br>
+
 # Research
-<div style="font-size: 1.0em; font-weight: bold; margin-bottom: 10px; color: #333;">2025
+
+#### 2025
+
 - **Efficient Personalization of Quantized Diffusion Model without Backpropagation**
 
   Hoigi Seo\*, Wongi Jeong\*, **Kyungryeol Lee**, Se Young Chun (\* co-first author) \
