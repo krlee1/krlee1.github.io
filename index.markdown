@@ -17,7 +17,7 @@ Email: [kr.lee@snu.ac.kr](mailto:kr.lee@snu.ac.kr) \
 <br>
 <br>
 # Research
-## 2025
+### 2025
 - **Efficient Personalization of Quantized Diffusion Model without Backpropagation**
 
   Hoigi Seo\*, Wongi Jeong\*, **Kyungryeol Lee**, Se Young Chun \
