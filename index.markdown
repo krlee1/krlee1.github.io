@@ -17,13 +17,13 @@ Email: [kr.lee@snu.ac.kr](mailto:kr.lee@snu.ac.kr) \
 <br>
 <br>
 # Research
-### 2025
+<div style="font-size: 1.0em; font-weight: bold; margin-bottom: 10px; color: #333;">2025
 - **Efficient Personalization of Quantized Diffusion Model without Backpropagation**
 
-  Hoigi Seo\*, Wongi Jeong\*, **Kyungryeol Lee**, Se Young Chun \
+  Hoigi Seo\*, Wongi Jeong\*, **Kyungryeol Lee**, Se Young Chun (\* co-first author) \
   Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.  
 
 - **Robust Watermarks for Audio Diffusion Models by Quadrature Amplitude Modulation**
 
-  **Kyungryeol Lee**\*, Seongmin Hong\*, Se Young Chun \
+  **Kyungryeol Lee**\*, Seongmin Hong\*, Se Young Chun (\* co-first author) \
   Pattern Recognition Letters, 2025.
