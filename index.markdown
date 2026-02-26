@@ -8,7 +8,7 @@ title: ""
 
 # About Me
 
-I am a second-year MS/PhD integrated student in [Electrical and Computer Engineering](https://ece.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/index.html). Under the supervision of Professor [Se Young Chun](https://icl.snu.ac.kr/pi) at [Intelligent Computational imaging Lab](https://icl.snu.ac.kr/), I am currently focusing on research in efficient generative models, vision-language-action models, and safety AI.
+Hi! I am a second-year MS/PhD integrated student in [Electrical and Computer Engineering](https://ece.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/index.html). Under the supervision of Professor [Se Young Chun](https://icl.snu.ac.kr/), I am currently focusing on research in efficient generative models, vision-language-action models, and safety AI.
 
 Email: [kr.lee@snu.ac.kr](mailto:kr.lee@snu.ac.kr) \
 <!-- [[Google Scholar](https://scholar.google.co.kr/citations?user=Xei6FKcAAAAJ&hl=ko)]
@@ -21,6 +21,17 @@ Email: [kr.lee@snu.ac.kr](mailto:kr.lee@snu.ac.kr) \
 <br>
 
 # Research
+
+#### 2026
+
+- **Training-free Mixed-Resolution Latent Upsampling for Spatially Accelerated Diffusion Transformers**
+
+  Wongi Jeong\*, **Kyungryeol Lee**\*, Hoigi Seo, Se Young Chun (\*co-first) \
+  Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+
+  [[arXiv](https://arxiv.org/abs/2507.08422)]
+  [[project](https://ignoww.github.io/RALU_project/)]
+  [[code](https://github.com/ignoww/RALU)]
 
 #### 2025
 
