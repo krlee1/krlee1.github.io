@@ -27,7 +27,7 @@ Email: [kr.lee@snu.ac.kr](mailto:kr.lee@snu.ac.kr) \
 - **Training-free Mixed-Resolution Latent Upsampling for Spatially Accelerated Diffusion Transformers**
 
   Wongi Jeong\*, **Kyungryeol Lee**\*, Hoigi Seo, Se Young Chun (\*co-first) \
-  Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+  Accepted at Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
   [[arXiv](https://arxiv.org/abs/2507.08422)]
   [[project](https://ignoww.github.io/RALU_project/)]
