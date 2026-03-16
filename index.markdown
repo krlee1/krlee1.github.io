@@ -35,6 +35,13 @@ Email: [kr.lee@snu.ac.kr](mailto:kr.lee@snu.ac.kr) \
   [[project](https://ignoww.github.io/RALU_project/)]
   [[code](https://github.com/ignoww/RALU)]
 
+- **Unlearning the Unpromptable: Prompt-free Instance Unlearning in Diffusion Models**
+
+  **Kyungryeol Lee**\*, Kyeonghyun Lee\*, Seongmin Hong\*, Byung Hyun Lee, Se Young Chun (\*co-first) \
+  arXiv, 2026.
+
+  [[arXiv](https://arxiv.org/abs/2603.10445)]
+
 #### 2025
 
 - **Efficient Personalization of Quantized Diffusion Model without Backpropagation**
