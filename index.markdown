@@ -38,7 +38,8 @@ Email: [kr.lee@snu.ac.kr](mailto:kr.lee@snu.ac.kr) \
 - **Unlearning the Unpromptable: Prompt-free Instance Unlearning in Diffusion Models**
 
   **Kyungryeol Lee**\*, Kyeonghyun Lee\*, Seongmin Hong\*, Byung Hyun Lee, Se Young Chun (\*co-first) \
-  arXiv, 2026.
+  Accepted at CVPR 2026 Workshop on Machine Unlearning for Vision, 2026.
+  <!-- arXiv, 2026. -->
 
   [[arXiv](https://arxiv.org/abs/2603.10445)]
 
