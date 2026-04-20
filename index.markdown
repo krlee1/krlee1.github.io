@@ -15,7 +15,7 @@ Email: [kr.lee@snu.ac.kr](mailto:kr.lee@snu.ac.kr) \
 [[Github](https://github.com/krlee1)]
 [[LinkedIn](https://www.linkedin.com/in/kyungryeol-lee-60b999335/)] -->
 <!-- [![CV](https://img.shields.io/badge/CV-PDF-B31B1B?style=flat&logo=adobeacrobatreader&logoColor=white)](/assets/cv.pdf) -->
-<a href="/cv_260316.pdf" target="_blank"><img src="https://img.shields.io/badge/CV-PDF-B31B1B?style=flat&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
+<a href="/CV_krlee.pdf" target="_blank"><img src="https://img.shields.io/badge/CV-PDF-B31B1B?style=flat&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
 [![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/krlee1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyungryeol-lee-60b999335/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.co.kr/citations?user=Xei6FKcAAAAJ)
@@ -29,7 +29,7 @@ Email: [kr.lee@snu.ac.kr](mailto:kr.lee@snu.ac.kr) \
 - **Training-free Mixed-Resolution Latent Upsampling for Spatially Accelerated Diffusion Transformers**
 
   Wongi Jeong\*, **Kyungryeol Lee**\*, Hoigi Seo, Se Young Chun (\*co-first) \
-  Accepted at Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (<b style="color:blue;">highlight</b>)
+  Accepted at Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (<b style="color:blue;">Highlight</b>)
 
   [[arXiv](https://arxiv.org/abs/2507.08422)]
   [[project](https://ignoww.github.io/RALU_project/)]
