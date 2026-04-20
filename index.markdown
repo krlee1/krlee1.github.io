@@ -8,12 +8,10 @@ title: ""
 
 # About Me
 
-<img src="/profile_1.jpg" width="200px" align="right" style="margin-left: 20px; border-radius: 10px;">
+<img src="/profile_2.jpg" width="200px" align="right" style="margin-left: 20px; border-radius: 10px;">
 
 <!-- Hi! I am a second-year MS/PhD integrated student in [Electrical and Computer Engineering](https://ece.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/index.html). Under the supervision of Professor [Se Young Chun](https://icl.snu.ac.kr/), I am currently focusing on research in efficient generative models, vision-language-action models, and safety AI. -->
 Hi! 👋 I am a second-year MS/PhD integrated student in [Electrical and Computer Engineering](https://ece.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/index.html). Under the supervision of Professor [Se Young Chun](https://icl.snu.ac.kr/), I am currently focusing on research in **Efficient AI** (e.g., acceleration, pruning, quantization) and **Safety AI** (e.g., watermark, machine unlearning), but not limited to.
-
-<br>
 
 Email: [kr.lee@snu.ac.kr](mailto:kr.lee@snu.ac.kr) \
 <!-- [[Google Scholar](https://scholar.google.co.kr/citations?user=Xei6FKcAAAAJ&hl=ko)]
@@ -25,7 +23,7 @@ Email: [kr.lee@snu.ac.kr](mailto:kr.lee@snu.ac.kr) \
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyungryeol-lee-60b999335/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.co.kr/citations?user=Xei6FKcAAAAJ)
 
-<br> <br>
+<br>
 
 # Research
 
