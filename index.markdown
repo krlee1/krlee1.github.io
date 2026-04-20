@@ -47,9 +47,8 @@ title: ""
 
 <div class="profile-wrapper">
   <div class="profile-text">
-    <h1 style="border-bottom: none; margin-bottom: 10px;">Kyungryeol Lee</h1>
     <p>
-      Hi! I am a second-year MS/PhD integrated student in <a href="https://ece.snu.ac.kr/">Electrical and Computer Engineering</a> at <a href="https://www.snu.ac.kr/index.html">Seoul National University</a>. 
+      Hi! 👋 I am a second-year MS/PhD integrated student in <a href="https://ece.snu.ac.kr/">Electrical and Computer Engineering</a> at <a href="https://www.snu.ac.kr/index.html">Seoul National University</a>. 
       Under the supervision of Professor <a href="https://icl.snu.ac.kr/">Se Young Chun</a>, my research interests include, but are not limited to:
     </p>
     <ul>
@@ -69,7 +68,7 @@ title: ""
 <!-- Hi! I am a second-year MS/PhD integrated student in [Electrical and Computer Engineering](https://ece.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/index.html). Under the supervision of Professor [Se Young Chun](https://icl.snu.ac.kr/), I am currently focusing on research in efficient generative models, vision-language-action models, and safety AI. -->
 <!-- Hi! 👋 I am a second-year MS/PhD integrated student in [Electrical and Computer Engineering](https://ece.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/index.html). Under the supervision of Professor [Se Young Chun](https://icl.snu.ac.kr/), I am currently focusing on research in **Efficient AI** (e.g., acceleration, pruning, quantization) and **Safety AI** (e.g., watermark, machine unlearning), but not limited to. -->
 
-Email: [kr.lee@snu.ac.kr](mailto:kr.lee@snu.ac.kr) \
+<!-- Email: [kr.lee@snu.ac.kr](mailto:kr.lee@snu.ac.kr) \ -->
 <!-- [[Google Scholar](https://scholar.google.co.kr/citations?user=Xei6FKcAAAAJ&hl=ko)]
 [[Github](https://github.com/krlee1)]
 [[LinkedIn](https://www.linkedin.com/in/kyungryeol-lee-60b999335/)] -->
