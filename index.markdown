@@ -8,9 +8,10 @@ title: ""
 
 # About Me
 
-<img src="/profile.jpg" width="200px" align="right" style="margin-left: 20px; border-radius: 10px;">
+<img src="/profile_1.jpg" width="200px" align="right" style="margin-left: 20px; border-radius: 10px;">
 
-Hi! I am a second-year MS/PhD integrated student in [Electrical and Computer Engineering](https://ece.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/index.html). Under the supervision of Professor [Se Young Chun](https://icl.snu.ac.kr/), I am currently focusing on research in efficient generative models, vision-language-action models, and safety AI.
+<!-- Hi! I am a second-year MS/PhD integrated student in [Electrical and Computer Engineering](https://ece.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/index.html). Under the supervision of Professor [Se Young Chun](https://icl.snu.ac.kr/), I am currently focusing on research in efficient generative models, vision-language-action models, and safety AI. -->
+Hi! 👋 I am a second-year MS/PhD integrated student in [Electrical and Computer Engineering](https://ece.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/index.html). Under the supervision of Professor [Se Young Chun](https://icl.snu.ac.kr/), I am currently focusing on research in **Efficient AI** (e.g., acceleration, pruning, quantization) and **Safety AI** (e.g., watermark, machine unlearning), but not limited to.
 
 <br>
 
