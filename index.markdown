@@ -8,10 +8,66 @@ title: ""
 
 # About Me
 
-<img src="/profile_2.jpg" width="200px" align="right" style="margin-left: 20px; border-radius: 10px;">
+<style>
+  /* 기본 스타일 (모바일 우선) */
+  .profile-wrapper {
+    display: flex;
+    flex-direction: column-reverse; /* 모바일에서 사진을 위로, 텍스트를 아래로 */
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+    margin-bottom: 30px;
+  }
+
+  .profile-text {
+    flex: 1;
+  }
+
+  .profile-image img {
+    width: 200px; /* 사진 크기 조절 */
+    height: 200px;
+    border-radius: 50%; /* 원형 이미지 */
+    object-fit: cover;
+  }
+
+  /* 데스크탑 스타일 (화면 너비 768px 이상일 때) */
+  @media (min-width: 768px) {
+    .profile-wrapper {
+      flex-direction: row; /* 가로로 배치 */
+      align-items: flex-start;
+      text-align: left;
+      justify-content: space-between;
+    }
+    
+    .profile-image {
+      margin-left: 40px;
+    }
+  }
+</style>
+
+<div class="profile-wrapper">
+  <div class="profile-text">
+    <h1 style="border-bottom: none; margin-bottom: 10px;">Kyungryeol Lee</h1>
+    <p>
+      Hi! I am a second-year MS/PhD integrated student in <a href="https://ece.snu.ac.kr/">Electrical and Computer Engineering</a> at <a href="https://www.snu.ac.kr/index.html">Seoul National University</a>. 
+      Under the supervision of Professor <a href="https://icl.snu.ac.kr/">Se Young Chun</a>, my research interests include, but are not limited to:
+    </p>
+    <ul>
+      <li><strong>Efficient AI</strong>: acceleration, pruning, quantization, etc.</li>
+      <li><strong>Safety AI</strong>: watermark, machine unlearning, etc.</li>
+    </ul>
+    <p>Email: <a href="mailto:kr.lee@snu.ac.kr">kr.lee@snu.ac.kr</a></p>
+  </div>
+  
+  <div class="profile-image">
+    <img src="/profile_3.jpg" alt="Kyungryeol Lee">
+  </div>
+</div>
+
+<!-- <img src="/profile_3.jpg" width="200px" align="right" style="margin-left: 20px; border-radius: 10px;"> -->
 
 <!-- Hi! I am a second-year MS/PhD integrated student in [Electrical and Computer Engineering](https://ece.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/index.html). Under the supervision of Professor [Se Young Chun](https://icl.snu.ac.kr/), I am currently focusing on research in efficient generative models, vision-language-action models, and safety AI. -->
-Hi! 👋 I am a second-year MS/PhD integrated student in [Electrical and Computer Engineering](https://ece.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/index.html). Under the supervision of Professor [Se Young Chun](https://icl.snu.ac.kr/), I am currently focusing on research in **Efficient AI** (e.g., acceleration, pruning, quantization) and **Safety AI** (e.g., watermark, machine unlearning), but not limited to.
+<!-- Hi! 👋 I am a second-year MS/PhD integrated student in [Electrical and Computer Engineering](https://ece.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/index.html). Under the supervision of Professor [Se Young Chun](https://icl.snu.ac.kr/), I am currently focusing on research in **Efficient AI** (e.g., acceleration, pruning, quantization) and **Safety AI** (e.g., watermark, machine unlearning), but not limited to. -->
 
 Email: [kr.lee@snu.ac.kr](mailto:kr.lee@snu.ac.kr) \
 <!-- [[Google Scholar](https://scholar.google.co.kr/citations?user=Xei6FKcAAAAJ&hl=ko)]
