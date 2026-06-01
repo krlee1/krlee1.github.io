@@ -74,7 +74,7 @@ title: ""
 [[LinkedIn](https://www.linkedin.com/in/kyungryeol-lee-60b999335/)] -->
 <!-- [![CV](https://img.shields.io/badge/CV-PDF-B31B1B?style=flat&logo=adobeacrobatreader&logoColor=white)](/assets/cv.pdf) -->
 <a href="/CV_krlee.pdf" target="_blank"><img src="https://img.shields.io/badge/CV-PDF-B31B1B?style=flat&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
-[![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/krlee1)
+<!-- [![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/krlee1) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyungryeol-lee-60b999335/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.co.kr/citations?user=Xei6FKcAAAAJ)
 
