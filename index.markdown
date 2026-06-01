@@ -87,7 +87,7 @@ title: ""
 - **Training-free Mixed-Resolution Latent Upsampling for Spatially Accelerated Diffusion Transformers**
 
   Wongi Jeong\*, **Kyungryeol Lee**\*, Hoigi Seo, Se Young Chun (\*co-first) \
-  Accepted at Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (<b style="color:blue;">Highlight</b>)
+  Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (<b style="color:blue;">Highlight</b>)
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Jeong_Training-free_Mixed-Resolution_Latent_Upsampling_for_Spatially_Accelerated_Diffusion_Transformers_CVPR_2026_paper.html)]
   [[arXiv](https://arxiv.org/abs/2507.08422)]
@@ -97,7 +97,7 @@ title: ""
 - **Unlearning the Unpromptable: Prompt-free Instance Unlearning in Diffusion Models**
 
   **Kyungryeol Lee**\*, Kyeonghyun Lee\*, Seongmin Hong\*, Byung Hyun Lee, Se Young Chun (\*co-first) \
-  Accepted at CVPR Workshop on Machine Unlearning for Vision, 2026.
+  CVPR Workshop on Machine Unlearning for Vision, 2026.
   <!-- arXiv, 2026. -->
 
   [[arXiv](https://arxiv.org/abs/2603.10445)]
