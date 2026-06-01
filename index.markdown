@@ -89,6 +89,7 @@ title: ""
   Wongi Jeong\*, **Kyungryeol Lee**\*, Hoigi Seo, Se Young Chun (\*co-first) \
   Accepted at Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (<b style="color:blue;">Highlight</b>)
 
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Jeong_Training-free_Mixed-Resolution_Latent_Upsampling_for_Spatially_Accelerated_Diffusion_Transformers_CVPR_2026_paper.html)]
   [[arXiv](https://arxiv.org/abs/2507.08422)]
   [[project](https://ignoww.github.io/RALU_project/)]
   [[code](https://github.com/ignoww/RALU)]
@@ -108,8 +109,7 @@ title: ""
   Hoigi Seo\*, Wongi Jeong\*, **Kyungryeol Lee**, Se Young Chun (\*co-first) \
   Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025.
 
-  [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Seo_Efficient_Personalization_of_Quantized_Diffusion_Model_without_Backpropagation_CVPR_2025_paper.pdf)] 
-  [[supp](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Seo_Efficient_Personalization_of_CVPR_2025_supplemental.pdf)]
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Seo_Efficient_Personalization_of_Quantized_Diffusion_Model_without_Backpropagation_CVPR_2025_paper.html)] 
   [[arXiv](https://arxiv.org/abs/2503.14868)]
   [[project](https://ignoww.github.io/ZOODiP_project/)]
   [[code](https://github.com/ignoww/ZOODiP)]
